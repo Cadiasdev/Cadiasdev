@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor júnior fullstack com foco em criar aplicações completas e funcionais, desde o front-end até o back-end. Domino a linguagem Python e possuo conhecimento em diversas tecnologias voltadas para o desenvolvimento web. Estou em constante aprendizado, buscando sempre melhorar minhas habilidades e contribuir com projetos inovadores. 🚀</p>
+<p align="left">Sou um desenvolvedor júnior fullstack com foco em criar aplicações completas e funcionais, desde o front-end até o back-end. Domino a linguagem Python, JavaScript , C, e possuo conhecimento em diversas tecnologias voltadas para o desenvolvimento web. Estou em constante aprendizado, buscando sempre melhorar minhas habilidades e contribuir com projetos inovadores. 🚀</p>
 
 ###
 
